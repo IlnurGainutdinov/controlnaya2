@@ -1,0 +1,10 @@
+Toy{id=1, name='Конструктор', probability=2}
+Toy{id=3, name='Кукла', probability=6}
+Toy{id=3, name='Кукла', probability=6}
+Toy{id=2, name='Робот', probability=2}
+Toy{id=3, name='Кукла', probability=6}
+Toy{id=3, name='Кукла', probability=6}
+Toy{id=1, name='Конструктор', probability=2}
+Toy{id=3, name='Кукла', probability=6}
+Toy{id=2, name='Робот', probability=2}
+Toy{id=3, name='Кукла', probability=6}
